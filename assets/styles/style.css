@@ -1,0 +1,15 @@
+.header{
+    display: flex;
+    justify-content: center;
+}
+.main{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 25px;
+}
+.containerInfoTemp {
+    /* border: 1px solid blue; */
+    padding: 10px;
+    font-weight: 600;
+}
